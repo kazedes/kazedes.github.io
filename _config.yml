@@ -1,0 +1,29 @@
+# Site settings
+title: "onodera-chan"
+email: rochman.wahyudi24@gmail.com
+description: ""
+baseurl: ""
+url: "http://kazedes.github.io/"
+title_description: "<b>Need more coffeeeee.... </b>  <i class=\"fa fa-coffee\"></i>  <i class=\"fa fa-coffee\"></i>"
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-20365477-4"
+disqus_account: onodera
+github_repository: https://github.com/kazedes
+#addthis_id: ra-561bdeb769958a2b
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+highlighter: pygments
+deviantart_username: http://kazehayah.deviantart.com/
+facebook_username: rochmanwah
+github_username:  kazedes
+# Footer
+footer_left: "Coffee<i class=\"fa fa-coffee\"></i> by <a href=\"https://facebook.com/rochmanwah\">Kazehaya</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/kazedes\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]

@@ -1,0 +1,8 @@
+# Thumbnails
+._*
+
+# Jekyll Specific
+_site/
+
+# Ruby
+Gemfile.lock
